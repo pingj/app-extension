@@ -1,0 +1,9 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.5.0-prexp.1",
+    "libraryName": "app-extension",
+    "libraryId": "10379ebc-be25-4e35-a408-fb55ac22bf79",
+    "environment": "spo",
+    "packageManager": "npm"
+  }
+}
